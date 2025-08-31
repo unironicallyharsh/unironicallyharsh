@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Harsh 👋  
 
-<!--
-**unironicallyharsh/unironicallyharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year IT student | 💻 Aspiring Software Developer | 🎬 Film Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔭 Currently working on **Symphony** – a dating app that matches people based on music taste 🎶  
+- 🌱 Learning **Java**, **React**, and **PostgreSQL**  
+- 👯 Looking to collaborate on **Web and Full-Stack projects**  
+- 💬 Ask me about **Java, problem-solving, and building apps**  
+- ⚡ Fun fact: I believe life should be lived with a bit of Charlie Kelly’s energy 🌟  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** Java, HTML, CSS, SQL  
+- **Frameworks & Tools:** React, Firebase, Git  
+- **Databases:** PostgreSQL, Firebase Firestore  
+
+## 📫 Connect with Me  
+- GitHub: [unironicallyharsh](https://github.com/unironicallyharsh)  
+- LinkedIn: *[www.linkedin.com/in/harsh-pathak-231378338]*  
+- Email: *[harshpt56@gmail.com]*  
+
+---
+⭐️ “Trying to contribute at least 1% as much as Scorsese did to the world.”  
+
