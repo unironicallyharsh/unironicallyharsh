@@ -10,9 +10,9 @@ Hi, I'm Harsh 👋
 - ⚡ Fun fact: I believe life should be lived with a bit of Charlie Kelly’s energy 🌟  
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, HTML, CSS, SQL  
+- **Languages:** Java, HTML, CSS, SQL, Python, C++, 
 - **Frameworks & Tools:** React, Firebase, Git  
-- **Databases:** PostgreSQL, Firebase Firestore  
+- **Databases:** PostgreSQL, Firebase Firestore, MongoDB  
 
 ## 📫 Connect with Me  
 - GitHub: [unironicallyharsh](https://github.com/unironicallyharsh)  
