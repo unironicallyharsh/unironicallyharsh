@@ -2,7 +2,7 @@
 
 🎓 Final-year IT student | 💻 Aspiring Software Developer | 🎬 Film Enthusiast  
 
---
+---
 
 # 💫 About Me:
 - 🔭 Currently working on **Symphony** – a dating app that matches people based on music taste 🎶  <br>- 🌱 Learning **Java**, **React**, and **PostgreSQL**  <br>- 👯 Looking to collaborate on **Web and Full-Stack projects**  <br>- 💬 Ask me about **Java, problem-solving, and building apps**  <br>- ⚡ Fun fact: I believe life should be lived with a bit of Charlie Kelly’s energy 🌟
