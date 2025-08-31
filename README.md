@@ -16,7 +16,7 @@ Hi, I'm Harsh 👋
 
 ## 📫 Connect with Me  
 - GitHub: [unironicallyharsh](https://github.com/unironicallyharsh)  
-- LinkedIn: *[www.linkedin.com/in/harsh-pathak-231378338]*  
+- LinkedIn: [Harsh Pathak](www.linkedin.com/in/harsh-pathak-231378338)  
 - Email: *[harshpt56@gmail.com]*  
 
 ---
